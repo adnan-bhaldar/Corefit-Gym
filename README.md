@@ -8,9 +8,9 @@
   <br />
   <br />
 
-  <h2 align="center">Travel - Travel Website</h2>
+  <h2 align="center">Corefit - Gym Website</h2>
 
-  Travel Website is a fully responsive Travel website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Corefit-Gym Website is a fully responsive Gym website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://adnan-bhaldar.github.io/Corefit-Gym/"><strong>➥ Live Demo</strong></a>
 
